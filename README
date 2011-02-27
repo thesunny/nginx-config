@@ -1,0 +1,12 @@
+The configuration files for NGinx to have SSI and mimetypes set up.
+
+Basically, it's the minimal install required for designers to use SSI.
+It has been tested on a Windows machine and assumes that the files are
+in c:/projects/html but you can change this by editing the file.
+
+The file should appear in the nginx subdirectory
+
+  conf
+
+You will want to rename the original configuration file most likely.
+
